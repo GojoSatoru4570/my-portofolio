@@ -1,0 +1,142 @@
+body {
+  background-color: #212020;
+  color: #c5c2c2;
+}
+/* navbar-expand-lg */
+.navbar-expand-lg {
+  background-color: #128cae;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+  top: 0;
+}
+/* Home p */
+.home-p {
+  color: #d2cacad3;
+}
+/* Home Section */
+.home-section {
+  padding: 80px 0;
+}
+
+/* Home img */
+.home-section img {
+  max-width: 100%;
+  border-radius: 10px;
+  height: 400px;
+  margin-top: 20px;
+}
+/*Home span */
+.highlight {
+  color: #5dbeda;
+}
+
+/* About Section */
+.about-section {
+  padding: 30px 10px;
+}
+
+/* Awal Section project */
+.portfolio-section {
+  padding: 80px 0;
+}
+.card {
+  background-color: #2c2c2c;
+  border: none;
+  color: #c5c2c2;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.btn:hover {
+  background-color: #128cae;
+  color: #c5c2c2;
+}
+/* Akhir section project */
+
+/* Awal Section Contact */
+.form-control,
+.form-control:focus {
+  background-color: #2c2c2c;
+  border: 1px solid #5dbeda;
+  color: #c5c2c2;
+  box-shadow: none;
+}
+
+.form-control::placeholder {
+  color: #bbb;
+}
+
+/* Contact section */
+.contact-section {
+  padding: 80px 0;
+}
+.button-contact {
+  background-color: #128cae;
+}
+.button-contact:hover {
+  background-color: #0e7b99;
+}
+/* Akhir Section Contact */
+
+/* Awal Section Blog */
+/* Blog Section */
+.blog-section {
+  padding: 80px 0;
+}
+
+.card {
+  background-color: #2c2c2c;
+  border: none;
+  color: #c5c2c2;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.card-title {
+  color: #5dbeda;
+}
+.btn-readmore {
+  background-color: #5dbeda;
+  border: none;
+}
+.btn-readmore:hover {
+  background-color: #4aa3cc;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.button-blog {
+  width: 100%;
+}
+/* Akhir Section Blog */
+
+.container .navbar-brand {
+  font-weight: 500;
+  font-style: italic;
+  color: #022e3a;
+}
+/* navbar-collapse */
+.navbar-collapse ul li a:hover {
+  color: #d0d0d0b3;
+}
+
+.button-home {
+  background-color: #128cae;
+}
+.button-home:hover {
+  background-color: #0e7b99;
+}
+
+/* Footer */
+footer {
+  background-color: #2c2c2c;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+  color: #ccc;
+}
