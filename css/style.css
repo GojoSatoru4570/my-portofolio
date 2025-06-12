@@ -132,8 +132,8 @@ body {
 }
 
 /* Awal Section Sertiikat */
-.section-sertifikat {
-  padding: 30px 0;
+.section-sertifikat .highlight{
+  padding-top: 20px;
 }
 .carousel-item {
   padding: 40px;
